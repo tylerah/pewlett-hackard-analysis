@@ -1,4 +1,4 @@
-#Analysis of Pewlett-Hackard Retiring Employees Using SQL Queries
+# Analysis of Pewlett-Hackard Retiring Employees Using SQL Queries
 ## Overview
 The purpose of this project was to identify the number of retiring employees as per their given job title and to identify which employees are eligible to participate in a mentorship program. Hewlett-Packard had csv files containing all of the relevant information, but did not have a relational database set up. As such, the first step to obtaining the relevant information was to establish a database linking all of their employee data. Afterwards, SQL queries were utilized to make lists/tables of information requested 
 ## Results
